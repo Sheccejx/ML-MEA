@@ -1,2 +1,2 @@
 # ML-MEA
-group project
+ML group project
