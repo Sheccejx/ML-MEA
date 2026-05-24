@@ -1,3 +1,4 @@
+data_information:
 1. 
 SLEEP里原数据：
 train: 3921 个样本
@@ -23,3 +24,18 @@ C3_A2 C4_A1 F3_A2 F4_A1 O1_A2 O2_A1
   为了提升训练效果另收集有睡眠分期标签的睡眠EEG数据，剔除不能用的部分，有85472个样本
 3.
   故将SLEEP里原数据5862个有标签的当作验证集，将搜集得到的85472个样本当作训练集。
+
+model:
+
+1.CNN+LSTM
+
+迭代过程：
+
+（1）多尺度 CNN（大中小三种感受野） + SE 通道注意力 + 双向 LSTM
+
+（2）时域 Mixup 数据增强 + 逆频率加权交叉熵 + ReduceLROnPlateau 学习率衰减
+
+（3）引入 Focal Loss，引入 余弦退火重启 Cosine Annealing。
+
+（4）The Seq2Seq SOTA，引入滑动窗口与边缘复制填充，每次吐出连续的 5 个 Epoch，放弃 Focal Loss
+
