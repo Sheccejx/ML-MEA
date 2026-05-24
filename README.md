@@ -1,4 +1,4 @@
-公选题分工：
+共选题分工：
 刘益君：BCIC2A MDD
 刘意：SEED
 李成蹊：SLEEP
