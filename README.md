@@ -6,5 +6,5 @@
 
 李成蹊：SLEEP————[branch main /SLEEP](https://github.com/Sheccejx/ML-MEA/tree/main/SLEEP)
 
-尚一健：MDD————https://github.com/Sheccejx/ML-MEA/tree/main/project_1/MDD_dataset       Chinese（任务取消）
+尚一健：MDD————[https://github.com/Sheccejx/ML-MEA/tree/main/project_1/MDD_dataset](https://github.com/Sheccejx/ML-MEA/tree/main/project_1/MDD_dataset)       Chinese（任务取消）
 
