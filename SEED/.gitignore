@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+*.h5
+*.zip
+feature_cache/
+outputs_experiments/
+data_seed_link/
+
