@@ -1,1 +1,0 @@
-MMD: https://figshare.com/articles/dataset/EEG_Data_New/4244171
