@@ -2,7 +2,7 @@
 
 刘益君：BCIC2A MDD
 
-刘意：SEED————branch LiuY_SEED
+刘意：SEED————https://github.com/Sheccejx/ML-MEA/blob/LiuY_SEED
 
 李成蹊：SLEEP————branch main /SLEEP
 
