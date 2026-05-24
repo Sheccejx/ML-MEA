@@ -4,7 +4,7 @@
 
 刘意：SEED————https://github.com/Sheccejx/ML-MEA/blob/LiuY_SEED
 
-李成蹊：SLEEP————branch main /SLEEP
+李成蹊：SLEEP————[branch main /SLEEP](https://github.com/Sheccejx/ML-MEA/tree/main/SLEEP)
 
 尚一健：MDD Chinese（任务取消）
 
